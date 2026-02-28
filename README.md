@@ -27,11 +27,11 @@ This project replicates the **basic UI and functionality of the Amazon homepage*
 ## 🛠️ Technologies Used
 
 
-**HTML5**  – Structure
+- **HTML5**  – Structure
 
-**CSS3**  – Styling & Layout (Flexbox / Grid)
+- **CSS3**  – Styling & Layout (Flexbox / Grid)
 
-**JavaScript (Vanilla JS)** – Interactivity
+- **JavaScript (Vanilla JS)** – Interactivity
 
 
 
@@ -59,17 +59,15 @@ amazon-clone/
 
 Download or Clone the repository
 
-  git clone https://github.com/anchal_maurya/amazon-clone.git
+    git clone https://github.com/anchal_maurya/amazon-clone.git
 
 Open the project folder
 
-  Open index.html in your browser
+    Open index.html in your browser
 
-No additional installation required ✅
 
 
 ## 🎯 Learning Objectives
-
 
 This project helped me understand:
 
@@ -102,4 +100,5 @@ This project helped me understand:
 ## 👩‍💻 Author
 
 **Anchal Maurya**
+
 Aspiring Full Stack Developer
