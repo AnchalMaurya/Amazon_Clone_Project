@@ -40,8 +40,6 @@ This project replicates the **basic UI and functionality of the Amazon homepage*
 
 amazon-clone/
 
-│
-
 ├── index.html
 
 ├── style.css
